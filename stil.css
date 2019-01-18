@@ -1,0 +1,265 @@
+
+body{
+	background-color: mediumpurple;
+	margin-right: 50px;
+	margin-left:50px;
+	min-width:600px;
+	max-width:2000px;
+	color:white;
+	font-family:arial;
+}
+
+img.logo{
+	height:250px;
+	width:auto;
+	margin-top: 30px;
+	margin-bottom: 30px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+.clear{
+	clear:both;
+}
+a{
+	text-decoration:none;
+}
+#meni{
+	width:100%;
+	background:grey;
+	border:4px solid white;
+	overflow: hidden;
+	margin-bottom:30px;
+}
+#meni ul{
+	list-style-type:disc;
+	margin:0;
+	padding:0;
+}
+#meni ul li{
+	float:left;
+	margin-left: 20px;
+}
+#meni ul li a{
+	
+	padding: 10px;
+	line-height: 2em;
+}
+#meni ul li a:hover{
+	background: #369;
+	color: #fff;
+}
+#meni ul li a.active,
+#meni ul li a.active:hover{
+	color:#fff;
+	background:#000;
+	font-weight: bold;
+}
+
+/*Pocetna*/
+figure.slika{
+	width:250px;
+	height:auto;
+	margin:20px;
+	background-color:rgba(255,255,255,0.3);
+	padding:5px;
+	font-size:14px;
+	text-align:center;
+	float:left;
+}
+p.tekst{
+	font-size:1.3em;
+	margin:1.3em;
+}
+
+.prvi{
+	position:absolute;
+	top:10px;
+	left:10px;
+	
+}
+.fa {
+	border:1x solid grey;
+	padding: 10px;
+	border-radius:50%;
+	width:20px; 
+	height:20px;  
+	margin-top:5em;
+}
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+.fa-facebook{
+	background: blue;
+	color:white;
+}
+/*footer*/
+.icon{
+	margin-top:2em;
+}
+
+footer{
+	width: 100%;
+	background: gray;
+	border:4px solid white;
+	position: relative;
+}
+footer ul{
+	list-style-type: none;
+	margin:0;
+	padding:3px;
+}
+
+footer ul li{
+	display: inline-block;
+	margin:0;
+	padding:0;
+
+}
+footer ul li p {
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+	line-height: 1.5em;
+}
+.githublogo{
+	width:18px;
+	height: 18px;
+}
+/*Pocetna*/
+/*a.prvi:link,a.prvi:visited{{}
+	color: aliceblue;
+	background-color:rgba(255,123,87,0.98);
+	text-decoration: none;
+	padding: 14px 25px;
+	text-align: center;
+	display: inline-block;
+ } 
+ a.prvi:hover,a.prvi:active { 
+	background-color:rgba(221,75,43,0.98);
+ }
+	
+	
+	ovako treba urediti linkove*/
+	
+/*Vijesti*/
+
+#clanci article{
+	border: solid #369;
+	width:100%;
+	height: 200px;
+	position:relative;
+	padding:10px;
+	display: inline-block;
+}
+p.opis{
+	display:block;
+	position: relative;
+	height: 80%;
+	bottom: 30px;
+	padding-left:20px;
+	overflow: hidden;
+}
+article.tekst{
+	position: relative;
+}
+.naslov{
+	position:relative;
+	bottom:20px;
+	padding-left:20px;
+}
+.autor{
+	position: absolute;
+	bottom:0;
+	right:0;
+}
+.thumbnail{
+	position:relative;
+	bottom:30px;
+	width:auto;
+	height:160px;
+	float:left;
+	margin-left:10px;
+	margin-right:10px;
+}
+a:hover{
+	color: chocolate;
+}
+
+
+/*clanak*/
+.okvir{
+	width:30%;
+	height: auto;
+	display:inline-block;
+	position: relative;
+	border: solid #369;
+	padding:25px;
+	margin-top:30px;
+}
+img.slika{
+	position:relavitve;
+	width:100%;
+	height: 100%px;
+}
+
+/*Vijesti*/
+
+/*O nama*/
+
+video{
+	width:40%;
+	height:auto;
+	float:left;
+	margin:10px;
+}
+
+/*O nama*/
+
+/*kontakt*/
+#proba{
+	width:50%;
+	height: 100%;
+	float:left;
+	margin-right:1em;
+}
+form{
+	width:100%;
+	height: 300px;
+	position:relative;
+	padding:10px;
+	border: solid #369;
+	overflow: auto;
+}
+
+
+/*kontakt*/
+
+/*galerija*/
+figure.gallery {
+    margin: 5px;
+    border: 1px solid #369;
+    float: left;
+	width: 30%;
+	position:inline-block;
+}
+
+figure.gallery:hover {
+	border: 1px solid #777;
+}
+
+figure.gallery img {
+    width: 100%;
+    height: 300px;
+}
+
+figure.desc {
+    padding: 15px;
+    text-align: center;
+}
+/*galerija*/
+	
