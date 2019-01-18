@@ -12,7 +12,7 @@
 
 <header>
 <div'; if (!isset($_GET['menu']) || $_GET['menu'] ==1) { print ' class="main-img"'; } else { print ' class="main-imgsml"'; }  print '></div>
-<img src="htmllogo.png"alt="HTML logo"class="logo"/>
+<img src="slike/htmllogo.png"alt="HTML logo"class="logo"/>
 <nav id="meni">
 	<ul>
 		<li style="list-style-type:none"><a href="index.php?menu=1"class="link"> Početna Stranica </a></li>
