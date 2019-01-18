@@ -5,7 +5,7 @@ print'
 <h2>Red Dead redemption 2</h2>
 
 <figure class="okvir">
-	<img class="slika" src="galerija/red1.jpg"alt="Jezerce">
+	<img class="slika" src="slike/red1.jpg"alt="Jezerce">
 	<figcaption>Sjećate li se GTA: San Andreasa
 		 i onih dana kad ste Groove Street poznavali bolje nego 
 		 svoj džep? 
@@ -13,7 +13,7 @@ print'
 </figure>
 
 <figure class="okvir">
-	<img class="slika" src="galerija/red2.jpg"alt="Slikica">
+	<img class="slika" src="slike/red2.jpg"alt="Slikica">
 	<figcaption>Mnogi će igrači danas reći kako je ta igra imala „ono nešto“ 
 		što Rockstar kasnije nije uspio ponoviti u
 		 novijim nastavcima GTA serijala.

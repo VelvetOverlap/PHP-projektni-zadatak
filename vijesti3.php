@@ -4,14 +4,14 @@ print'
 <h2>Call of Duty: Black Ops 4</h2>
 
 <figure class="okvir">
-    <img class="slika"src="galerija/cod1.jpg"alt="slika">
+    <img class="slika"src="slike/cod1.jpg"alt="slika">
 <figcaption>
         Znate onaj topli osjećaj uzbuđenja i kontrolirane nestrpljivosti kada po prvi put napokon pokrenete neku igru koju ste dugo čekali pa ne želite apsolutno ništa preskočiti? Svaki djelić tog procesa prvog pokretanja igre proučavate i upijate s guštom.
 </figcaption>
 </figure>
 
 <figure class="okvir">
-    <img class="slika"src="galerija/cod3.jpg"alt="slika"/>
+    <img class="slika"src="slike/cod3.jpg"alt="slika"/>
     <figcaption>
             Čak ni uvodne animacije Nvidije,
             Dolby Digitala i sličnih tehnologija 

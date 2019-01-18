@@ -4,7 +4,7 @@ print'
 <h3>Why was there molten metal at 9/11 Ground Zero?</h3>
 
 <video  controls>
-       <source src="steel9.11.mp4" type="video/mp4">
+       <source src="slike/steel9.11.mp4" type="video/mp4">
      Your browser does not support the video tag. </video> 
 
   

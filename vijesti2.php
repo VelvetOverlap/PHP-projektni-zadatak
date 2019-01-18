@@ -2,12 +2,12 @@
 print'
 <h2>Forza Horizon 4</h2>
 <figure class="okvir">
-        <img  class="slika"src="galerija/forza1.jpg"alt="Forza"/>
+        <img  class="slika"src="slike/forza1.jpg"alt="Forza"/>
         <figcaption>Nemojte promjenu godišnjih doba shvatiti olako jer ona nije samo vizualna 
             nego se s njom mijenjaju i karakteristike voznog modela.</figcaption>
     </figure>
 <figure class="okvir">
-    <img  class="slika"src="galerija/forza.jpg"alt="Forza"/>
+    <img  class="slika"src="slike/forza.jpg"alt="Forza"/>
     <figcaption>Nemojte promjenu godišnjih doba shvatiti olako jer ona nije samo vizualna 
         nego se s njom mijenjaju i karakteristike voznog modela.</figcaption>
 </figure><hr>

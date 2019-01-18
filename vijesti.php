@@ -6,7 +6,7 @@ print'
 		
 	<article >
 			<h3 class="naslov">Red Dead redemption 2</h3>
-		<img src="galerija/red3.jpg" alt="Red Dead redemption 2"class="thumbnail"/> 
+		<img src="slike/red3.jpg" alt="Red Dead redemption 2"class="thumbnail"/> 
 		
 			<p class="opis">	Tijekom jedne razmjene lovačkih priča i sitnih mudrosti u Red Dead Redemptionu 2 može
 					se čuti upečatljiva misao koja glasi:
@@ -22,7 +22,7 @@ print'
 	
 	<article >
 			<h3 class="naslov">Forza Horizon 4</h3> 
-			<img src="galerija/forza.jpg" alt="Forza Horzon 4"class="thumbnail"/>
+			<img src="slike/forza.jpg" alt="Forza Horzon 4"class="thumbnail"/>
 			
 			<p class="opis">	Neki će reći kako nema toga što već nismo vidjeli u igrama arkadnog utrkivanja. 
 				U Burnoutu smo ciljano izazivali sudare,
@@ -39,7 +39,7 @@ print'
 	
 	<article >
 			<h3 class="naslov">Call of Duty: Black Ops 4</h3>
-			<img src="galerija/cod4.jpg" alt="Call of Duty: Black Ops 4"class="thumbnail"/> 
+			<img src="slike/cod4.jpg" alt="Call of Duty: Black Ops 4"class="thumbnail"/> 
 			
 			<p class="opis">	Call of Duty: Black Ops 4 ima pedantno krojen multiplayer s osam modova i 14 mapa, 
 				potpuno novi battle royale mod zvan Blackout s 
